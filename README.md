@@ -8,11 +8,13 @@ Then a function is called to change the values of the spacing, blur and color.
 <br>
 The below i changed the the spacing and reducing the blur
 <br>
+<br>
 ![](images/yellow.png)
 <br>
 <br>
 <br>
 Here i change the color to orange and adjusted the blur.
+<br>
 <br>
 ![](images/orange.png)
 
